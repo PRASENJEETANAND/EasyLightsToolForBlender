@@ -1,3 +1,4 @@
+<img width="229" alt="TOOLS" src="https://github.com/user-attachments/assets/869f4f0a-eb25-4ebb-8a56-ddc22e6e6933" />
 
 # Easy Light Tool for Blender
 
