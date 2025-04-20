@@ -41,7 +41,7 @@ The **Easy Light Tool** is a Blender add-on designed to simplify the process of 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the CCO License, i am not asking anything.
 
 ---
 
